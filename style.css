@@ -1,0 +1,36 @@
+.b {
+	background-color: LightBlue;
+}
+
+.p{
+	font-family: Garamond;
+	color: #3A3B3C;
+}
+
+.image{
+	width: 35%;
+	float: left;
+	padding-right: 10px;
+}
+.topnav {
+  background-color: #000000;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #4863A0;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #151B8D;
+  color: black;
+}
+.topnav a.active {
+  background-color: #5CB3FF;
+  color: white;
+}
